@@ -1,5 +1,4 @@
 # PipAutoSrc (pippip)
-<hr>
 
 
 ##### 简介
