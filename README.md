@@ -8,13 +8,19 @@
 > 下载文件到本地
 > 
 > 替换镜像源
-> 
+>
 > `python pippip.py`
+>
+> 
+![image](https://github.com/fateofdate/PipAutoSrc/assets/120372718/2c115846-5f34-48bd-aa26-f4840ed9a1cb)
 > 
 > 替换回官方镜像源
 > 
 > `python pippip.py --reset`
+>
 > 
+![image](https://github.com/fateofdate/PipAutoSrc/assets/120372718/f529940f-ef7c-4e6e-aa5f-e38234fb5dcd)
+ 
 ##### 添加其他镜像源
 > 在config.json里面`Src`添加如下
 > 
