@@ -1,0 +1,15 @@
+{
+  "Src": [
+    ["TsingHua", "https://pypi.tuna.tsinghua.edu.cn/simple"],
+    ["aliyun", "https://mirrors.aliyun.com/pypi/simple/"],
+    ["Tencent", "http://mirrors.cloud.tencent.com/pypi/simple/"],
+    ["Douban", "http://pypi.douban.com/simple/#"],
+    ["Ustc", "http://pypi.mirrors.ustc.edu.cn/simple/"],
+    ["Org", "https://pypi.python.org/simple/"],
+    ["163", "https://mirrors.163.com/"],
+    ["Sohu", "http://mirrors.sohu.com/Python/"],
+    ["Baidu", "https://mirror.baidu.com/pypi/simple"],
+    ["Huawei", "https://mirrors.huaweicloud.com/home"]
+  ],
+  "TIMEOUT": 1000
+}
