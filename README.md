@@ -6,6 +6,8 @@
 > 
 ##### 快速使用
 > 下载文件到本地
+>
+> `git clone https://github.com/fateofdate/PipAutoSrc.git`
 > 
 > 替换镜像源
 >
